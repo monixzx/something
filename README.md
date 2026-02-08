@@ -151,7 +151,6 @@
 <body>
 
   <div class="card">
-    <img class="person" src="skin.jpg" alt="You">
     <h1>Happy Propose Day 💍</h1>
 
     <img class="person" src="monixx.jpg" alt="You">
