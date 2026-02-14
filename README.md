@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Propose Day 💍</title>
+  <title>Happy Valentine Day 💍</title>
 
   <style>
     body {
@@ -151,7 +151,7 @@
 <body>
 
   <div class="card">
-    <h1>Happy Propose Day 💍</h1>
+    <h1>Happy Valentine Day 💍</h1>
 
     <img class="person" src="monixx.jpg" alt="You">
 
